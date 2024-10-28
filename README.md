@@ -1,8 +1,8 @@
 # Video reconstruction by spatio-temporal fusion of blurred-coded image pair
-This repository contains inference code for **Video reconstruction by spatio-temporal fusion of blurred-coded image pair** accepted at ICPR 2020.
+This repository contains inference code for **Video reconstruction by spatio-temporal fusion of blurred-coded image pair** published in ICPR 2020.
 
 ### Dependencies
-+ python v3.6.8
++ python v3.6
 + pytorch v1.4.0
 + numpy v1.16.4
 + skimage v0.15.0
